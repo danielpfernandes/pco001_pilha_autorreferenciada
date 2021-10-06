@@ -1,0 +1,12 @@
+/cmake-build-debug/
+/cmake-build-default/
+/cmake-build-minsizerel/
+/cmake-build-release/
+/cmake-build-relwithdebinfo/
+/.idea/.name
+/.idea/dictionaries/danie.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/pco001-lista-arranjos.iml
+/.idea/vcs.xml
+/.idea/.gitignore
